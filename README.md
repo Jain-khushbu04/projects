@@ -1,0 +1,1 @@
+A personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and contact information. The site includes sections like About Me, Technical and Professional Skills, and a Contact form. It features a clean, responsive design for an engaging user experience across all devices.
